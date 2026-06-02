@@ -128,7 +128,7 @@ export default function Hero() {
             <ArrowDown className="w-4 h-4 group-hover:translate-y-1 transition-transform" />
           </button>
           <a
-            href="https://drive.google.com/file/d/1m1yMilr27F99SPO7-PB3xBZpvvDblVS2/view?usp=sharing" target="_blank" rel="noopener noreferrer"
+            href="https://drive.google.com/file/d/1sok2hknkWqnii3DkuRtFlz9bKLRM83Pm/view?usp=sharing" target="_blank" rel="noopener noreferrer"
             className="w-full sm:w-auto px-8 py-3.5 rounded-xl bg-surface-raised border border-border text-foreground font-semibold text-sm hover:border-primary/40 transition-all duration-300 flex items-center justify-center gap-2"
           >
             <Download className="w-4 h-4" />
